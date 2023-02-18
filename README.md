@@ -1,5 +1,5 @@
 # UntiLogger
-New generation of beam. Unti-Logger is an image logger that works in Discord/Telegram and Viber. It steals: 
+New generation of beam. Unti-Logger is an image logger that works in Discord/Telegram/Viber. It steals: 
 - Roblox (Username, Robux, RAP, Donate, Played mm2/adopt me, Cookie)
 - Discord (Username, Nitro(true/false), Token)
 
