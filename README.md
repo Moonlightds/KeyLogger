@@ -19,6 +19,6 @@ Download: https://github.com/Moonlightds/UntiLogger/releases/tag/secondv
  ![image](https://user-images.githubusercontent.com/124251090/219870352-51c42e40-1441-4187-9ebf-b1bbfa9b724b.png)
 
 LAST UPDATE:
-FIXED BUILDING
+FIXED
 
 
