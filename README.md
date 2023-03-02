@@ -18,7 +18,7 @@ Download: https://github.com/Moonlightds/UntiLogger/releases/tag/thirst
 
  Log when someone opens the image:
  
- ![image](https://user-images.githubusercontent.com/124251090/219870352-51c42e40-1441-4187-9ebf-b1bbfa9b724b.png)
+![image](https://user-images.githubusercontent.com/124251090/222409807-1880bb9c-0379-4403-aa0b-2ed5ec3fad37.png)
 
 LAST UPDATE:
 FIXED
