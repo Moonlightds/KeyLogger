@@ -1,8 +1,8 @@
 # UntiLogger
-![image](https://user-images.githubusercontent.com/124251090/222407578-8efbee3e-279d-4ae2-a834-fac2c5a19c90.png)
+![image](https://user-images.githubusercontent.com/124251090/222416751-c48ee8b3-b894-49a7-8361-37218ab664b3.png)
 
 New generation of beam. Unti-Logger is an image logger that works in Discord/Telegram/Viber. It steals: 
-- Roblox (Username, Robux, RAP, Donate, Played mm2/adopt me, Cookie)
+- Roblox (Robux, RAP, Balance, Profile Url, Cookie)
 - Discord (Username, Nitro(true/false), Token)
 
 Log when someone opens the image:
